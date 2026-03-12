@@ -1,10 +1,9 @@
-**
-**/bin
-**/obj
-.git
+bin/
+obj/
+.git/
 .gitignore
-.vs
-.vscode
+.vs/
+.vscode/
 Dockerfile
 .dockerignore
-C:\Users\ad\.gemini\antigravity\brain
+C:/Users/ad/.gemini/antigravity/brain
